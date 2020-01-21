@@ -1,0 +1,13 @@
+/Users/Anton/OneDrive/Documents/Предметы/Защита информации/Information Security/Lab_2/Lab_2/obj/x86/Debug/Lab_2.csprojAssemblyReference.cache
+/Users/Anton/OneDrive/Documents/Предметы/Защита информации/Information Security/Lab_2/Lab_2/obj/x86/Debug/Lab_2.csproj.CoreCompileInputs.cache
+/Users/Anton/OneDrive/Documents/Предметы/Защита информации/Information Security/Lab_2/Lab_2/bin/Debug/Lab_2.exe
+/Users/Anton/OneDrive/Documents/Предметы/Защита информации/Information Security/Lab_2/Lab_2/bin/Debug/Lab_2.pdb
+/Users/Anton/OneDrive/Documents/Предметы/Защита информации/Information Security/Lab_2/Lab_2/obj/x86/Debug/Lab_2.exe
+/Users/Anton/OneDrive/Documents/Предметы/Защита информации/Information Security/Lab_2/Lab_2/obj/x86/Debug/Lab_2.pdb
+C:\InformationSecurity-master\InformationSecurity-master\Lab_2\Lab_2\bin\Debug\Lab_2.exe.config
+C:\InformationSecurity-master\InformationSecurity-master\Lab_2\Lab_2\bin\Debug\Lab_2.exe
+C:\InformationSecurity-master\InformationSecurity-master\Lab_2\Lab_2\bin\Debug\Lab_2.pdb
+C:\InformationSecurity-master\InformationSecurity-master\Lab_2\Lab_2\obj\x86\Debug\Lab_2.csprojAssemblyReference.cache
+C:\InformationSecurity-master\InformationSecurity-master\Lab_2\Lab_2\obj\x86\Debug\Lab_2.csproj.CoreCompileInputs.cache
+C:\InformationSecurity-master\InformationSecurity-master\Lab_2\Lab_2\obj\x86\Debug\Lab_2.exe
+C:\InformationSecurity-master\InformationSecurity-master\Lab_2\Lab_2\obj\x86\Debug\Lab_2.pdb

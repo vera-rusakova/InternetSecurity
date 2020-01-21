@@ -1,0 +1,13 @@
+/Users/Anton/OneDrive/Documents/Предметы/Защита информации/Information Security/Lab_4/Lab_4/bin/Debug/Lab_4.exe
+/Users/Anton/OneDrive/Documents/Предметы/Защита информации/Information Security/Lab_4/Lab_4/bin/Debug/Lab_4.pdb
+/Users/Anton/OneDrive/Documents/Предметы/Защита информации/Information Security/Lab_4/Lab_4/obj/x86/Debug/Lab_4.csprojAssemblyReference.cache
+/Users/Anton/OneDrive/Documents/Предметы/Защита информации/Information Security/Lab_4/Lab_4/obj/x86/Debug/Lab_4.csproj.CoreCompileInputs.cache
+/Users/Anton/OneDrive/Documents/Предметы/Защита информации/Information Security/Lab_4/Lab_4/obj/x86/Debug/Lab_4.exe
+/Users/Anton/OneDrive/Documents/Предметы/Защита информации/Information Security/Lab_4/Lab_4/obj/x86/Debug/Lab_4.pdb
+C:\InformationSecurity-master\InformationSecurity-master\Lab_4\Lab_4\bin\Debug\Lab_4.exe.config
+C:\InformationSecurity-master\InformationSecurity-master\Lab_4\Lab_4\bin\Debug\Lab_4.exe
+C:\InformationSecurity-master\InformationSecurity-master\Lab_4\Lab_4\bin\Debug\Lab_4.pdb
+C:\InformationSecurity-master\InformationSecurity-master\Lab_4\Lab_4\obj\x86\Debug\Lab_4.csprojAssemblyReference.cache
+C:\InformationSecurity-master\InformationSecurity-master\Lab_4\Lab_4\obj\x86\Debug\Lab_4.csproj.CoreCompileInputs.cache
+C:\InformationSecurity-master\InformationSecurity-master\Lab_4\Lab_4\obj\x86\Debug\Lab_4.exe
+C:\InformationSecurity-master\InformationSecurity-master\Lab_4\Lab_4\obj\x86\Debug\Lab_4.pdb
